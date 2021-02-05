@@ -27,11 +27,13 @@ class _GetStartedPageState extends State<GetStartedPage> {
             constraints:
                 BoxConstraints(minHeight: (MediaQuery.of(context).size.height)),
             child: Column(
-              mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+              mainAxisAlignment: MainAxisAlignment.start,
               crossAxisAlignment: CrossAxisAlignment.center,
               children: [
                 buildPageView(),
+                 heightSpacer(30.00),
                 buildDotIndicator(),
+                heightSpacer(100.00),
                 buildGetStartedButton(),
               ],
             ),
@@ -42,7 +44,7 @@ class _GetStartedPageState extends State<GetStartedPage> {
   }
 
   Widget buildPageView() => Container(
-        height: MediaQuery.of(context).size.height / 1.25,
+        height: MediaQuery.of(context).size.height / 1.55,
         child: Container(
           child: PageView.builder(
             controller: myPageViewController,
@@ -59,7 +61,7 @@ class _GetStartedPageState extends State<GetStartedPage> {
                       Center(
                         child: Container(
                           width: double.infinity,
-                          height: 350,
+                          height: 200,
                           child: Image.asset(
                             getStartedPageImages[index],
                             fit: BoxFit.contain,
