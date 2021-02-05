@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'HomePage.dart';
+import 'Screens/GetStarted/UI/GetStartedPage.dart';
 
 void main() {
   runApp(MyApp());
@@ -10,13 +9,8 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-    
-     
-      home: HomePage(),
+      debugShowCheckedModeBanner: false,
+      home: GetStartedPage(),
     );
   }
 }
-
-
-
-
