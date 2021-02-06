@@ -37,9 +37,9 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
 
 ## Sample Results
 
-Results | #1 |
---- | --- |
-Images | <img src="https://user-images.githubusercontent.com/58719230/106362635-efb04080-6349-11eb-8802-eeb179c7a06f.png" width="350" height="800"> |
+Results | #1 | #2 | #3
+--- | --- | --- | --- |
+Images | <img src="https://user-images.githubusercontent.com/58719230/107113655-553e8880-6886-11eb-9359-819ff223c426.png" width="350" height="450"> | <img src="https://user-images.githubusercontent.com/58719230/107113651-4f48a780-6886-11eb-8e9e-7651fefec410.png" width="350" height="450"> | <img src="https://user-images.githubusercontent.com/58719230/107113653-5079d480-6886-11eb-8ccd-23b9b1fbbde4.png" width="350" height="450"> |
 
 ## License
 
