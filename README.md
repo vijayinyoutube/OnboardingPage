@@ -1,4 +1,4 @@
-# OnBoarding Screen
+# Onboarding Screen
 
 [![BUILD](https://img.shields.io/badge/Build-Passing-<COLOR>.svg)](https://github.com/vijayinyoutube/exeappgetsrt)
 [![vijaycreations](https://img.shields.io/badge/Follow_me-vijaycreations-orange.svg?&logo=youtube&logoColor=orange)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
@@ -7,7 +7,7 @@
 [![Flutter](https://img.shields.io/badge/_Flutter_-App-grey.svg?&logo=Flutter&logoColor=white&labelColor=blue)](https://github.com/vijayinyoutube/exeappgetsrt)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58719230/107114105-5b823400-6889-11eb-9598-be9f4c176f53.png" width="100%">
+<img src="https://user-images.githubusercontent.com/58719230/107114223-33470500-688a-11eb-9df8-17d7a54a92ec.png" width="100%">
 </p>
 
 ## Flutter
