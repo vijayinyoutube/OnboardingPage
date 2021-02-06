@@ -7,7 +7,7 @@
 [![Flutter](https://img.shields.io/badge/_Flutter_-App-grey.svg?&logo=Flutter&logoColor=white&labelColor=blue)](https://github.com/vijayinyoutube/exeappgetsrt)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/58719230/107113617-13154700-6886-11eb-9826-49f11ff285b2.png" width="100%">
+<img src="https://user-images.githubusercontent.com/58719230/107114105-5b823400-6889-11eb-9598-be9f4c176f53.png" width="100%">
 </p>
 
 ## Flutter
